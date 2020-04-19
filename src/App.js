@@ -14,15 +14,15 @@ class App extends Component {
                 <Link to="/fork1028_website">Homepage</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/projects">Projects</Link>
-                <Link to="/about">About</Link>
+
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="Xinyue Chen">
             <Navigation>
                 <Link to="/fork1028_website">Homepage</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/projects">Projects</Link>
-                <Link to="/about">About</Link>
+                
             </Navigation>
         </Drawer>
         <Content>
